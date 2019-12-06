@@ -1,0 +1,2 @@
+# MSPuino
+MSPuino is the MSP430 (G2553) based development Board liken an Arduino, and we can use MSPuino for prototyping. MSPuino can be program though Energia IDE and we can upload code over UART called BSL programming in MSP430. this is the simplest bord which gives you one more flavor of  Arduino boards.easy to program and plug and play use. no need for external programmers like JTAG of FET. I hope you like this project
